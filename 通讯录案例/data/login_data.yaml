@@ -1,0 +1,13 @@
+test_login:
+  test_login_001:
+    age: "18"
+    name: "xiaoming"
+    height: "177"
+  test_login_002:
+    age: "20"
+    name: "xiaohong"
+    height: "160"
+  test_login_003:
+    age: "30"
+    name: "xiaoqiang"
+    height: "199"

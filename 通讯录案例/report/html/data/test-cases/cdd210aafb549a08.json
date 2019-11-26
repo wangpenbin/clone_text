@@ -1,0 +1,59 @@
+{
+  "uid" : "cdd210aafb549a08",
+  "name" : "test_login[args2]",
+  "fullName" : "scripts.test_login.TestLogin#test_login",
+  "historyId" : "53abbd847160edd99bcde321a677e269",
+  "time" : {
+    "start" : 1574674587450,
+    "stop" : 1574674587452,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-0M8GVGUQ"
+  }, {
+    "name" : "thread",
+    "value" : "17340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "args",
+    "value" : "{'age': '30', 'name': 'xiaoqiang', 'height': '199'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdd210aafb549a08.json",
+  "parameterValues" : [ "{'age': '30', 'name': 'xiaoqiang', 'height': '199'}" ]
+}

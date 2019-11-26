@@ -1,0 +1,97 @@
+{
+  "1b982b61644902b8255396697b8b1091" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95ae51fab250610c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574674587440,
+        "stop" : 1574674587441,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ea80bad5f7956f055c9c2b50ee0b297c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2eda5b1555221792",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574674568798,
+        "stop" : 1574674585920,
+        "duration" : 17122
+      }
+    } ]
+  },
+  "53386123f3c8085fcc4c479a7efaef18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1dc49f743a0348a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574674587444,
+        "stop" : 1574674587445,
+        "duration" : 1
+      }
+    } ]
+  },
+  "53abbd847160edd99bcde321a677e269" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdd210aafb549a08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574674587450,
+        "stop" : 1574674587452,
+        "duration" : 2
+      }
+    } ]
+  },
+  "22717db7b3c6143612064d34d59e9ef7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69024bd8d20272e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574674542528,
+        "stop" : 1574674559775,
+        "duration" : 17247
+      }
+    } ]
+  }
+}

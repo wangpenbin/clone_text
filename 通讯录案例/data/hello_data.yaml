@@ -1,0 +1,14 @@
+test_hello1:
+  -
+    - "zhangsan"
+    - "zhangsan"
+  -
+    - "lisi"
+    - "lisi"
+test_hello2:
+  -
+    - "xiaoming"
+    - "xiaoming"
+  -
+    - "xiaohong"
+    - "xiaohong"
